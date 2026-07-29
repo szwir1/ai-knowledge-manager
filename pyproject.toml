@@ -1,0 +1,5 @@
+[project]
+name = "ai-knowledge-manager"
+version = "0.1.0"
+description = "A learning project for building a Python backend application with AI features."
+requires-python = ">=3.14"
